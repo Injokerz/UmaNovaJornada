@@ -1,0 +1,1 @@
+Olá,esse é um projeto feito para registrar toda a minha linha de aprendizado.
